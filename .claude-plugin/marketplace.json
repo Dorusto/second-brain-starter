@@ -1,0 +1,14 @@
+{
+  "name": "second-brain-starter",
+  "description": "A note-taking system built around what you want, with Claude Code",
+  "owner": {
+    "name": "Dorusto"
+  },
+  "plugins": [
+    {
+      "name": "second-brain",
+      "source": "./plugins/second-brain",
+      "description": "An interview that builds a small note-taking system around your goals, one approved piece at a time."
+    }
+  ]
+}
